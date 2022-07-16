@@ -1,7 +1,7 @@
-# Gallery Photo with Location - Final Project for the Flutter course - UDESC
+# Gallery Photo with Location - Final Project - UDESC
 ### Developed by Jonny Eduardo Banach
 
-Challenge developed as a requirement for passing the Flutter course.
+Challenge developed as a requirement for approval in the Geographic Information Systems discipline.
 
 ### Applied concepts:
 
